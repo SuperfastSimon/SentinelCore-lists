@@ -1,0 +1,53 @@
+# SentinelCore default tracker list v1 — format: domain|category|company
+doubleclick.net|advertising|Google
+googleadservices.com|advertising|Google
+googlesyndication.com|advertising|Google
+google-analytics.com|analytics|Google
+googletagmanager.com|analytics|Google
+app-measurement.com|analytics|Google
+firebase-settings.crashlytics.com|analytics|Google
+crashlytics.com|analytics|Google
+admob.com|advertising|Google
+graph.facebook.com|tracker|Meta
+connect.facebook.net|tracker|Meta
+an.facebook.com|advertising|Meta
+appsflyer.com|tracker|AppsFlyer
+appsflyersdk.com|tracker|AppsFlyer
+adjust.com|tracker|Adjust
+adjust.io|tracker|Adjust
+branch.io|tracker|Branch
+app.link|tracker|Branch
+kochava.com|tracker|Kochava
+singular.net|tracker|Singular
+amplitude.com|analytics|Amplitude
+mixpanel.com|analytics|Mixpanel
+segment.io|analytics|Twilio Segment
+segment.com|analytics|Twilio Segment
+braze.com|tracker|Braze
+appboy.com|tracker|Braze
+onesignal.com|tracker|OneSignal
+flurry.com|analytics|Yahoo
+applovin.com|advertising|AppLovin
+applvn.com|advertising|AppLovin
+unityads.unity3d.com|advertising|Unity
+ironsrc.com|advertising|Unity
+supersonicads.com|advertising|Unity
+vungle.com|advertising|Liftoff
+liftoff.io|advertising|Liftoff
+chartboost.com|advertising|Chartboost
+inmobi.com|advertising|InMobi
+mopub.com|advertising|AppLovin
+startapp.com|advertising|Start.io
+taboola.com|advertising|Taboola
+outbrain.com|advertising|Outbrain
+criteo.com|advertising|Criteo
+criteo.net|advertising|Criteo
+scorecardresearch.com|analytics|Comscore
+bugsnag.com|analytics|SmartBear
+sentry.io|analytics|Sentry
+newrelic.com|analytics|New Relic
+hotjar.com|analytics|Hotjar
+ads.tiktok.com|advertising|ByteDance
+analytics.tiktok.com|analytics|ByteDance
+ads-api.twitter.com|advertising|X Corp
+mc.yandex.ru|tracker|Yandex
